@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(129, 116, 99);
+}
+h1{
+    background-color: rgb(196, 255, 209);
+    color: blueviolet;
+    font-size: 200%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-size: 100%;
+    background-color: rgb(147, 245, 237);
+}
